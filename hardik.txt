@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+    <title>HARDIK CHHABRA-- RESUME</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            
+            <h1>HARDIK CHHABRA</h1>
+            
+            <i class="glyphicon glyphicon-user"></i>
+
+        </header>
+       
+        <nav class="first" >
+            <a href="#Education">EDUCATION</a> 
+            <a href="#Skills">EXPERIENCE</a>
+            <a href="#Achievements">ACHIEVEMENTS</a>
+            <a href="#Work Experience">WORK EXPERIENCE</a>
+            <a href="#Projects">PROJECTS</a>
+            <a href="#">CV/RESUME</a>
+        </nav>
+        <section id="Education">
+            
+            
+            <h3>EDUCATION</h3>
+            <h4>SCHOOL-- Hansraj Model School </h4>
+            <p>class 10 - 90% in CBSE board exams</p>
+            <p>class 12 - 94% in CBSE board exams PCM </p>
+            <h4>COLLEGE-- Manipal Institue of technology </h4>
+            <p>Electrical and electronics engineer 2020-24</p>
+        
+
+            <br>
+        </section>
+          <section id="Skills">
+            <h3>SKILLS</h3>
+            <h4>Programming Languages </h4>
+            <p>C</p>
+            
+            
+            <p>Python</p>
+            <h4>Web Development</h4>
+            <p>HTML 5</p>
+            <p>CSS</p>
+            
+
+          </section>
+          <br>
+        
+        <br>
+        <section id="Work Experience">
+            <h3>WORK EXPERIENCE</h3>
+            <h4> currently working as an intern in younity </h4>
+            <h4> volunteer at RedX manipal </h4>
+            
+            
+            
+
+            <h4>Actor -- ADA DRAMATICS</h4>
+            <p>Nov 2020 --- July 2023</p>
+              
+            
+
+        
+        </section>
+        <br>
+        <section id="Projects">
+        <h3>PROJECTS</h3>
+
+
+        </section>
+        <br>
+         
+    </div>
+</body>
+</html>
